@@ -1,0 +1,103 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.productlist{
+	/*border: 1px solid black;*/
+	width: 1060px;
+	
+	margin-left: 10px;
+}
+.listhead{
+	height: 40px;
+}
+.listdown{
+	
+	display: flex;
+	flex-direction: row;               /*濡亜鎮減ail*/
+	justify-content: space-between;   /*閸у洤瀵戦崚鍡楃閿涘奔琚辨潏閫涚瑝閻ｆ瑧鈹�*/
+	align-items: center;        /*娓氀嗛叡鐏炲懍鑵戠�靛綊缍�   閻╃顕禍搴㈡杹鐎瑰啰娈慸iv濡楋拷*/
+}
+.listdown-left{
+	border: 1px solid cadetblue;
+	width: 120px;
+	height: 535px;
+}
+.listdown-right{
+	border: 1px solid #FA8072;
+	width: 936px;
+	height: 535px;
+}
+li{
+	/*background-color: #A8A8A8;*/
+	border-bottom: 1px solid silver;
+	list-style: none;
+}
+p{
+	height: 35px;
+	font-family: "瀵邦喛钂嬮梿鍛寸拨";
+	font-size: 16px;
+	line-height: 35px;
+	margin-left: 15px;
+	color: black;
+}
+#id_p4{
+	height: 60px;
+	
+}
+span{
+	float: right;
+    margin-right: 725px;
+    color: red;
+    font-size: medium;
+    line-height: 35px;
+}
+.right-div{
+	height: 35px;
+	border-bottom: 1px solid silver;
+	line-height: 35px;
+	padding-left: 15px;
+}
+#sys,#sub{
+	width: 173px;
+}
+#sys_size{
+	width: 173px;
+}
+#sub{
+	margin-left: 10px;
+}
+
+#right-id4{
+	height: 60px;
+	line-height: 60px;
+    font-size: 15px;
+    border-bottom: 1px solid silver;
+}
+#right-id10{
+	border-bottom: 0px;
+}
+#right-id0,#right-id1,#right-id2,#right-id3,#right-id5,#right-id6,#right-id7,#right-id8,#right-id9{
+	height: 35px;
+    border-bottom: 1px solid silver;
+}
+#_input1id{
+	width: 60px;
+    height: 40px;
+    font-size: 15px;border-style:none ;
+    margin-left: 450px;
+    margin-top: 160px;
+}
+#_input2id{
+	width: 60px;
+    height: 40px;
+    font-size: 15px;border-style:none ;
+    margin-left: 25px;
+}
+#_input1id:hover{
+	background-color: #1e90ff;
+}
+#_input2id:hover{
+	background-color: #1e90ff;

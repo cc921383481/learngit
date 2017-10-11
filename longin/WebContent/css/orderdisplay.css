@@ -1,0 +1,131 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+#div_all{
+	width: 900px;
+    /*background-color: whitesmoke;*/
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#div_button{
+	width: 80px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+    margin-left: 25px;
+}
+#div_button button{
+	width:100px;
+	height: 30px;
+	color: #DF4D4E;
+}
+#div_content_list01{
+	border: 1px solid lightgray;
+	width:900px;
+	height: 200px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#div_content_list02{
+	border: 1px solid lightgray;
+	width:900px;
+	height: 150px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#div_content_list03{
+	border: 1px solid lightgray;
+	width:900px;
+	height: 150px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#div_content_list04{
+	border: 1px solid lightgray;
+	width:900px;
+	height: 150px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+#div_content_list05{
+	border: 1px solid lightgray;
+	width:900px;
+	height: 200px;
+	margin-top: 10px;
+	border-radius: 5px;
+}
+.div_list_pro{
+	float: left;
+	width: 200px;
+	text-align: center;
+}
+.div_list{
+	width: 900px;
+	height:35px;
+	font-family: "寰蒋闆呴粦";
+	font-size: 16px;
+	border-radius: 5px;
+	background-color: whitesmoke;
+	line-height: 35px;
+	
+}
+.div_list p{
+	margin-left: 10px;
+}
+.div_list_word{
+	width: 1100px;
+	height:30px;
+	/*background-color: #C3C3C3;*/
+	line-height: 30px;
+	font-family: "寰蒋闆呴粦";
+}
+.div_list_word p{
+	float: left;
+	margin-left: 20px;
+}
+#div_list_word_right{
+	color:red;
+}
+.div_list_have{
+	margin-top: 10px;
+	margin-left: 10px;
+	/*background-color: #389DC1;*/
+	width: 800px;
+	height: 25px;
+	line-height: 25px;
+}
+.div_list_have p{
+	float: left;
+	color: gray;
+}
+.div_input{
+	width: 150px;
+	height: 25px;
+	margin-left: 10px;
+}
+#div_list_have_button{
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin-left: 15px;
+}
+.div_list_prodisplay{
+	height: 50px;
+	line-height: 50px;
+	width: 900px;
+	border-bottom: 2px solid whitesmoke;
+}
+#confirm{
+	width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+textarea{
+	width: 880px;
+    /* border-left-width: 0px; */
+    height: 104px;
+}

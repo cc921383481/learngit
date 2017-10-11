@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+.daa{
+	width: 900px;
+	height: 1000px;
+	border: 1px solid chartreuse;
+}
+.hang{
+	width: 200px;
+	height: 40px;
+	border: 1px solid chartreuse;
+	background-color: darkgray;
+}
+.hang1{
+	width: 600px;
+	height: 40px;
+	border: 1px solid chartreuse;
+}
+.input{
+	margin-top: 10px;
+}
+a{
+	align-content: center;
+}
+input{
+	margin-left: 10px;
+}

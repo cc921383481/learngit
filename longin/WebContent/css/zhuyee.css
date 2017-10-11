@@ -1,0 +1,64 @@
+@CHARSET "UTF-8";
+.daohang{
+	width: 100%;
+	height: 80px;
+	border: 1px solid gold;
+	background-color: #9370DB;
+	/*opacity: 0.5;*/
+	
+}
+.z1{
+height:0;  
+width:143px;  
+border-color: goldenrod;
+border-bottom:80px solid aquamarine;  
+border-left:0px solid transparent;  
+border-right:86px solid transparent;
+}
+.z2{
+width: 89%;
+height: 0px;
+opacity: 0.5;
+border: 1px solid red;
+margin-top: -80px;
+margin-left: 146px;
+border-bottom:79px solid #9370DB;  
+border-bottom-style: hidden;
+}
+.z2  a{
+	float: right;
+	height: 30px;
+	width: 30px;
+	border: 1px solid #9370DB;
+}
+.anniu{
+	width: 83%;
+	height: 40px;
+	/*border: 1px solid gold;*/
+	margin-left: 226px;
+	margin-top: 37px;
+	
+}
+.an{
+	margin-left: 20px;
+	margin-top: 10px;
+	border-bottom-style: hidden;
+	background-color: #9999FF;
+}
+.chelan{
+	width: 17%;
+	height: 500px;
+	border: 1px solid gold;
+}
+.chelan1{
+	background-color: #D8E2EC;
+}
+.daohang p{
+	text-align: center;
+}
+.xiala{
+	width: 100%;
+	height: 182px;
+	border: 1px solid gold;
+	display: none;
+}

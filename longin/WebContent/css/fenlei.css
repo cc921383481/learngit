@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.bian{
+	width: 50%;
+	border: 1px solid slateblue;
+}
+.tianjia{
+	float: left;
+	 -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    border-radius: 12px;
+    font-size: 19px;
+    margin-left: 78px;
+}
+.tianjia:hover {
+    background-color: cornflowerblue; /* Green */
+    color: white;
+}

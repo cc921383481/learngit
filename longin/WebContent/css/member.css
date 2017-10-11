@@ -1,0 +1,85 @@
+@CHARSET "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.manager-div{
+	border: 1px solid aquamarine;
+	width: 1060px;
+	height: 587px;
+	display: flex;
+	flex-direction:column;  
+	margin-left: 10px;             
+}
+#div-up{
+	border: 1px solid aquamarine;
+	width: 1060px;
+	height: 40px;
+}
+P{
+	margin-top: 10px;
+	padding-left: 10px;
+	font: "微软雅黑" 13px;
+}
+#div-down{
+	border: 1px solid aquamarine;
+	width: 1060px;
+	display: flex;
+	flex-direction:column;  
+}
+.down-up{
+	border: 1px solid aquamarine;
+	width: 1060px;
+	height: 60px;
+}
+#form2id  table{
+	
+}
+#inputid0,#inputid1,#inputid2{
+	height: 30px;
+    width: 160px;
+    margin-right: 20px;
+    border-style: none;
+    margin-top: 15px;
+    font-size: 16px;
+}
+#_td0{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 40px;
+}
+#_td1{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 60px;
+}
+#_td2{
+	padding-left: 15px;
+    padding-right: 35px;
+    width: 80px;
+}
+#_td3{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 60px;
+}
+#_td4{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 170px;
+}
+#_td5{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 140px;
+}
+#_td6{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 80px;
+}
+#_td7{
+	padding-left: 15px;
+    padding-right: 35px;
+   width: 80px;
+}

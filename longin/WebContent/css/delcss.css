@@ -1,0 +1,37 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#_input1id{
+	width: 60px;
+    height: 40px;
+    font-size: 15px;border-style:none ;
+    margin-left: 25px;
+}
+#_input2id{
+	width: 60px;
+    height: 40px;
+    font-size: 15px;border-style:none ;
+    margin-left: 25px;
+}
+#_input1id:hover,#_input2id:hover{
+	background-color: #1e90ff;
+}
+#divid{
+	background-color: snow;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 350px;
+    top: 150px;
+}
+#div1id{
+	height: 70px;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 19px;
+}
+#div2id{
+	padding-left: 45px;
+    margin-top: 20px;
+}
